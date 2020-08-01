@@ -3,3 +3,4 @@ def reverse_each_word(sentence)
   new_array = ["Hello","there","and","how","are","you"]
   new_array = words_array.collect
 end 
+reverse_each_word("Hello there, how are you?")
